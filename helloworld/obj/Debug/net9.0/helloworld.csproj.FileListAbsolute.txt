@@ -1,0 +1,14 @@
+E:\wiproTraingPrograms\helloworld\bin\Debug\net9.0\helloworld.exe
+E:\wiproTraingPrograms\helloworld\bin\Debug\net9.0\helloworld.deps.json
+E:\wiproTraingPrograms\helloworld\bin\Debug\net9.0\helloworld.runtimeconfig.json
+E:\wiproTraingPrograms\helloworld\bin\Debug\net9.0\helloworld.dll
+E:\wiproTraingPrograms\helloworld\bin\Debug\net9.0\helloworld.pdb
+E:\wiproTraingPrograms\helloworld\obj\Debug\net9.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+E:\wiproTraingPrograms\helloworld\obj\Debug\net9.0\helloworld.AssemblyInfoInputs.cache
+E:\wiproTraingPrograms\helloworld\obj\Debug\net9.0\helloworld.AssemblyInfo.cs
+E:\wiproTraingPrograms\helloworld\obj\Debug\net9.0\helloworld.csproj.CoreCompileInputs.cache
+E:\wiproTraingPrograms\helloworld\obj\Debug\net9.0\helloworld.dll
+E:\wiproTraingPrograms\helloworld\obj\Debug\net9.0\refint\helloworld.dll
+E:\wiproTraingPrograms\helloworld\obj\Debug\net9.0\helloworld.pdb
+E:\wiproTraingPrograms\helloworld\obj\Debug\net9.0\helloworld.genruntimeconfig.cache
+E:\wiproTraingPrograms\helloworld\obj\Debug\net9.0\ref\helloworld.dll

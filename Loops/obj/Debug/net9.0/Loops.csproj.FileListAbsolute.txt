@@ -1,0 +1,14 @@
+E:\wiproTraingPrograms\Loops\bin\Debug\net9.0\Loops.exe
+E:\wiproTraingPrograms\Loops\bin\Debug\net9.0\Loops.deps.json
+E:\wiproTraingPrograms\Loops\bin\Debug\net9.0\Loops.runtimeconfig.json
+E:\wiproTraingPrograms\Loops\bin\Debug\net9.0\Loops.dll
+E:\wiproTraingPrograms\Loops\bin\Debug\net9.0\Loops.pdb
+E:\wiproTraingPrograms\Loops\obj\Debug\net9.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+E:\wiproTraingPrograms\Loops\obj\Debug\net9.0\Loops.AssemblyInfoInputs.cache
+E:\wiproTraingPrograms\Loops\obj\Debug\net9.0\Loops.AssemblyInfo.cs
+E:\wiproTraingPrograms\Loops\obj\Debug\net9.0\Loops.csproj.CoreCompileInputs.cache
+E:\wiproTraingPrograms\Loops\obj\Debug\net9.0\Loops.dll
+E:\wiproTraingPrograms\Loops\obj\Debug\net9.0\refint\Loops.dll
+E:\wiproTraingPrograms\Loops\obj\Debug\net9.0\Loops.pdb
+E:\wiproTraingPrograms\Loops\obj\Debug\net9.0\Loops.genruntimeconfig.cache
+E:\wiproTraingPrograms\Loops\obj\Debug\net9.0\ref\Loops.dll
