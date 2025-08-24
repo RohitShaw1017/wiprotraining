@@ -1,0 +1,11 @@
+E:\source\PracticeMVC\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+E:\source\PracticeMVC\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+E:\source\PracticeMVC\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+E:\source\PracticeMVC\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\PracticeMVC\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+E:\source\PracticeMVC\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+E:\source\PracticeMVC\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\source\PracticeMVC\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+E:\source\PracticeMVC\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+E:\source\PracticeMVC\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+E:\source\PracticeMVC\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll

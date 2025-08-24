@@ -1,0 +1,14 @@
+E:\source\DemoEmailValidation\DemoEmailValidation\bin\Debug\net8.0\DemoEmailValidation.exe
+E:\source\DemoEmailValidation\DemoEmailValidation\bin\Debug\net8.0\DemoEmailValidation.deps.json
+E:\source\DemoEmailValidation\DemoEmailValidation\bin\Debug\net8.0\DemoEmailValidation.runtimeconfig.json
+E:\source\DemoEmailValidation\DemoEmailValidation\bin\Debug\net8.0\DemoEmailValidation.dll
+E:\source\DemoEmailValidation\DemoEmailValidation\bin\Debug\net8.0\DemoEmailValidation.pdb
+E:\source\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\DemoEmailValidation.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\DemoEmailValidation.AssemblyInfoInputs.cache
+E:\source\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\DemoEmailValidation.AssemblyInfo.cs
+E:\source\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\DemoEmailValidation.csproj.CoreCompileInputs.cache
+E:\source\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\DemoEmailValidation.dll
+E:\source\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\refint\DemoEmailValidation.dll
+E:\source\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\DemoEmailValidation.pdb
+E:\source\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\DemoEmailValidation.genruntimeconfig.cache
+E:\source\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\ref\DemoEmailValidation.dll

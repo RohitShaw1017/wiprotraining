@@ -1,0 +1,15 @@
+E:\wiproTraingPrograms\ArraysString\bin\Debug\net9.0\ArraysString.exe
+E:\wiproTraingPrograms\ArraysString\bin\Debug\net9.0\ArraysString.deps.json
+E:\wiproTraingPrograms\ArraysString\bin\Debug\net9.0\ArraysString.runtimeconfig.json
+E:\wiproTraingPrograms\ArraysString\bin\Debug\net9.0\ArraysString.dll
+E:\wiproTraingPrograms\ArraysString\bin\Debug\net9.0\ArraysString.pdb
+E:\wiproTraingPrograms\ArraysString\obj\Debug\net9.0\ArraysString.GeneratedMSBuildEditorConfig.editorconfig
+E:\wiproTraingPrograms\ArraysString\obj\Debug\net9.0\ArraysString.AssemblyInfoInputs.cache
+E:\wiproTraingPrograms\ArraysString\obj\Debug\net9.0\ArraysString.AssemblyInfo.cs
+E:\wiproTraingPrograms\ArraysString\obj\Debug\net9.0\ArraysString.csproj.CoreCompileInputs.cache
+E:\wiproTraingPrograms\ArraysString\obj\Debug\net9.0\ArraysString.sourcelink.json
+E:\wiproTraingPrograms\ArraysString\obj\Debug\net9.0\ArraysString.dll
+E:\wiproTraingPrograms\ArraysString\obj\Debug\net9.0\refint\ArraysString.dll
+E:\wiproTraingPrograms\ArraysString\obj\Debug\net9.0\ArraysString.pdb
+E:\wiproTraingPrograms\ArraysString\obj\Debug\net9.0\ArraysString.genruntimeconfig.cache
+E:\wiproTraingPrograms\ArraysString\obj\Debug\net9.0\ref\ArraysString.dll

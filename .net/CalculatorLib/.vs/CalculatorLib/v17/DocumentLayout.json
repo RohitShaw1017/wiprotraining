@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\CalculatorLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEF125D-95B3-4A02-B48E-1A341A786933}|CalculatorTests.MSTest\\CalculatorTests.MSTest.csproj|e:\\source\\calculatorlib\\calculatortests.mstest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEF125D-95B3-4A02-B48E-1A341A786933}|CalculatorTests.MSTest\\CalculatorTests.MSTest.csproj|solutionrelative:calculatortests.mstest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ADD184-304D-4D1C-90EB-31286C4527B5}|CalculatorLib\\CalculatorLib.csproj|e:\\source\\calculatorlib\\calculatorlib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ADD184-304D-4D1C-90EB-31286C4527B5}|CalculatorLib\\CalculatorLib.csproj|solutionrelative:calculatorlib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58ADD184-304D-4D1C-90EB-31286C4527B5}|CalculatorLib\\CalculatorLib.csproj|e:\\source\\calculatorlib\\calculatorlib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58ADD184-304D-4D1C-90EB-31286C4527B5}|CalculatorLib\\CalculatorLib.csproj|solutionrelative:calculatorlib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "E:\\source\\CalculatorLib\\CalculatorTests.MSTest\\Test1.cs",
+              "RelativeDocumentMoniker": "CalculatorTests.MSTest\\Test1.cs",
+              "ToolTip": "E:\\source\\CalculatorLib\\CalculatorTests.MSTest\\Test1.cs",
+              "RelativeToolTip": "CalculatorTests.MSTest\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:22:20.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "E:\\source\\CalculatorLib\\CalculatorLib\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorLib\\Calculator.cs",
+              "ToolTip": "E:\\source\\CalculatorLib\\CalculatorLib\\Calculator.cs",
+              "RelativeToolTip": "CalculatorLib\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:20:59.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\CalculatorLib\\CalculatorLib\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorLib\\Program.cs",
+              "ToolTip": "E:\\source\\CalculatorLib\\CalculatorLib\\Program.cs",
+              "RelativeToolTip": "CalculatorLib\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:20:21.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

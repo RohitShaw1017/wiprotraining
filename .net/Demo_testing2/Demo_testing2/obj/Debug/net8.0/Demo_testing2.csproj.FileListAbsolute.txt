@@ -1,0 +1,14 @@
+E:\source\Demo_testing2\Demo_testing2\bin\Debug\net8.0\Demo_testing2.exe
+E:\source\Demo_testing2\Demo_testing2\bin\Debug\net8.0\Demo_testing2.deps.json
+E:\source\Demo_testing2\Demo_testing2\bin\Debug\net8.0\Demo_testing2.runtimeconfig.json
+E:\source\Demo_testing2\Demo_testing2\bin\Debug\net8.0\Demo_testing2.dll
+E:\source\Demo_testing2\Demo_testing2\bin\Debug\net8.0\Demo_testing2.pdb
+E:\source\Demo_testing2\Demo_testing2\obj\Debug\net8.0\Demo_testing2.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Demo_testing2\Demo_testing2\obj\Debug\net8.0\Demo_testing2.AssemblyInfoInputs.cache
+E:\source\Demo_testing2\Demo_testing2\obj\Debug\net8.0\Demo_testing2.AssemblyInfo.cs
+E:\source\Demo_testing2\Demo_testing2\obj\Debug\net8.0\Demo_testing2.csproj.CoreCompileInputs.cache
+E:\source\Demo_testing2\Demo_testing2\obj\Debug\net8.0\Demo_testing2.dll
+E:\source\Demo_testing2\Demo_testing2\obj\Debug\net8.0\refint\Demo_testing2.dll
+E:\source\Demo_testing2\Demo_testing2\obj\Debug\net8.0\Demo_testing2.pdb
+E:\source\Demo_testing2\Demo_testing2\obj\Debug\net8.0\Demo_testing2.genruntimeconfig.cache
+E:\source\Demo_testing2\Demo_testing2\obj\Debug\net8.0\ref\Demo_testing2.dll

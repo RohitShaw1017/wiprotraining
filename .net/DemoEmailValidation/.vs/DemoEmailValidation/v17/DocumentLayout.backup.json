@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\DemoEmailValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\source\\Demo_Testing\\Demo_Testing\\Calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F74AC7B0-3638-4745-A00E-27A642244580}|EmailValidation.xUnit\\EmailValidation.xUnit.csproj|e:\\source\\demoemailvalidation\\emailvalidation.xunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F74AC7B0-3638-4745-A00E-27A642244580}|EmailValidation.xUnit\\EmailValidation.xUnit.csproj|solutionrelative:emailvalidation.xunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268750FC-57C5-4554-B924-8F4005F4558B}|EmailValidation.MSTestProject\\EmailValidation.MSTestProject.csproj|e:\\source\\demoemailvalidation\\emailvalidation.mstestproject\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268750FC-57C5-4554-B924-8F4005F4558B}|EmailValidation.MSTestProject\\EmailValidation.MSTestProject.csproj|solutionrelative:emailvalidation.mstestproject\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8958D57D-E47E-47EA-AAB6-550C2EEEF709}|DemoEmailValidation\\DemoEmailValidation.csproj|e:\\source\\demoemailvalidation\\demoemailvalidation\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8958D57D-E47E-47EA-AAB6-550C2EEEF709}|DemoEmailValidation\\DemoEmailValidation.csproj|solutionrelative:demoemailvalidation\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8958D57D-E47E-47EA-AAB6-550C2EEEF709}|DemoEmailValidation\\DemoEmailValidation.csproj|e:\\source\\demoemailvalidation\\demoemailvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8958D57D-E47E-47EA-AAB6-550C2EEEF709}|DemoEmailValidation\\DemoEmailValidation.csproj|solutionrelative:demoemailvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8958D57D-E47E-47EA-AAB6-550C2EEEF709}|DemoEmailValidation\\DemoEmailValidation.csproj|e:\\source\\demoemailvalidation\\demoemailvalidation\\demoemailvalidation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8958D57D-E47E-47EA-AAB6-550C2EEEF709}|DemoEmailValidation\\DemoEmailValidation.csproj|solutionrelative:demoemailvalidation\\demoemailvalidation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "E:\\source\\Demo_Testing\\Demo_Testing\\Calculator.cs",
+              "RelativeDocumentMoniker": "..\\Demo_Testing\\Demo_Testing\\Calculator.cs",
+              "ToolTip": "E:\\source\\Demo_Testing\\Demo_Testing\\Calculator.cs",
+              "RelativeToolTip": "..\\Demo_Testing\\Demo_Testing\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:08:37.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\source\\DemoEmailValidation\\EmailValidation.xUnit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "EmailValidation.xUnit\\UnitTest1.cs",
+              "ToolTip": "E:\\source\\DemoEmailValidation\\EmailValidation.xUnit\\UnitTest1.cs",
+              "RelativeToolTip": "EmailValidation.xUnit\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:06:32.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "E:\\source\\DemoEmailValidation\\EmailValidation.MSTestProject\\Test1.cs",
+              "RelativeDocumentMoniker": "EmailValidation.MSTestProject\\Test1.cs",
+              "ToolTip": "E:\\source\\DemoEmailValidation\\EmailValidation.MSTestProject\\Test1.cs",
+              "RelativeToolTip": "EmailValidation.MSTestProject\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:03:27.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailValidator.cs",
+              "DocumentMoniker": "E:\\source\\DemoEmailValidation\\DemoEmailValidation\\EmailValidator.cs",
+              "RelativeDocumentMoniker": "DemoEmailValidation\\EmailValidator.cs",
+              "ToolTip": "E:\\source\\DemoEmailValidation\\DemoEmailValidation\\EmailValidator.cs",
+              "RelativeToolTip": "DemoEmailValidation\\EmailValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:01:34.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DemoEmailValidation",
+              "DocumentMoniker": "E:\\source\\DemoEmailValidation\\DemoEmailValidation\\DemoEmailValidation.csproj",
+              "RelativeDocumentMoniker": "DemoEmailValidation\\DemoEmailValidation.csproj",
+              "ToolTip": "E:\\source\\DemoEmailValidation\\DemoEmailValidation\\DemoEmailValidation.csproj",
+              "RelativeToolTip": "DemoEmailValidation\\DemoEmailValidation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T15:01:15.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\DemoEmailValidation\\DemoEmailValidation\\Program.cs",
+              "RelativeDocumentMoniker": "DemoEmailValidation\\Program.cs",
+              "ToolTip": "E:\\source\\DemoEmailValidation\\DemoEmailValidation\\Program.cs",
+              "RelativeToolTip": "DemoEmailValidation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:25:27.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

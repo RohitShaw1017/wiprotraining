@@ -1,0 +1,20 @@
+{
+  "name": "mytestproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jsonserver": "json-server --watch db.json --port 3000",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "json-server": "^1.0.0-beta.3",
+    "ports": "^1.1.0",
+    "pots": "^0.1.0"
+  }
+}

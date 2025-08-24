@@ -1,0 +1,21 @@
+<div [@listAnimation]>
+  <table class="events-table">
+    <thead>
+      <tr>
+        <th>Event Name</th>
+        <th>Date</th>
+        <th>Ticket Price</th>
+        <th>Category</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let e of events" [appHighlight]="e.price">
+        <td>{{ e.name }}</td>
+        
+        <td>{{ formatDate(e.date) }}</td>
+        <td>{{ e.price | priceFormat }}</td>
+        <td>{{ e.category }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,49 @@
+{
+  // ✅ Angular Language Service
+  "angular.enable-strict-template-diagnostics": true,
+  "angular.suggest.includeAutomaticOptionalChainCompletions": true,
+
+  // ✅ TypeScript & Angular Template IntelliSense
+  "typescript.suggest.completeFunctionCalls": true,
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  // ✅ HTML & CSS IntelliSense
+  "html.suggest.html5": true,
+  "css.validate": true,
+  "scss.validate": true,
+
+  // ✅ Auto Imports & Path Suggestions
+  "path-intellisense.autoSlashAfterDirectory": true,
+  "path-intellisense.showHiddenFiles": true,
+
+  // ✅ Quick Suggestions Everywhere
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "editor.parameterHints.enabled": true,
+  "editor.suggestOnTriggerCharacters": true,
+
+  // ✅ Formatting
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // ✅ Angular HTML Template Formatter
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  // ✅ Large Project Performance Boost
+  "typescript.tsserver.maxTsServerMemory": 4096,
+
+  // ✅ Optional AI Assistance (if using Copilot/TabNine)
+  "editor.inlineSuggest.enabled": true,
+  "files.autoSave": "afterDelay"
+}

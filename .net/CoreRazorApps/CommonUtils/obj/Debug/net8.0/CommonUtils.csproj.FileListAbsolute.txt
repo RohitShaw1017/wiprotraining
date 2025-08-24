@@ -1,0 +1,11 @@
+E:\source\CoreRazorApps\CommonUtils\bin\Debug\net8.0\CommonUtils.deps.json
+E:\source\CoreRazorApps\CommonUtils\bin\Debug\net8.0\CommonUtils.dll
+E:\source\CoreRazorApps\CommonUtils\bin\Debug\net8.0\CommonUtils.pdb
+E:\source\CoreRazorApps\CommonUtils\obj\Debug\net8.0\CommonUtils.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\CoreRazorApps\CommonUtils\obj\Debug\net8.0\CommonUtils.AssemblyInfoInputs.cache
+E:\source\CoreRazorApps\CommonUtils\obj\Debug\net8.0\CommonUtils.AssemblyInfo.cs
+E:\source\CoreRazorApps\CommonUtils\obj\Debug\net8.0\CommonUtils.csproj.CoreCompileInputs.cache
+E:\source\CoreRazorApps\CommonUtils\obj\Debug\net8.0\CommonUtils.dll
+E:\source\CoreRazorApps\CommonUtils\obj\Debug\net8.0\refint\CommonUtils.dll
+E:\source\CoreRazorApps\CommonUtils\obj\Debug\net8.0\CommonUtils.pdb
+E:\source\CoreRazorApps\CommonUtils\obj\Debug\net8.0\ref\CommonUtils.dll

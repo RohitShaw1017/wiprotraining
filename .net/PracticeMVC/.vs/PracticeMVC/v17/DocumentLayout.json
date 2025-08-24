@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\PracticeMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9DAE5E-0E33-4F0C-9D28-96D52805EBB1}|PracticeMVC\\PracticeMVC.csproj|e:\\source\\practicemvc\\practicemvc\\welcome.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D9DAE5E-0E33-4F0C-9D28-96D52805EBB1}|PracticeMVC\\PracticeMVC.csproj|solutionrelative:practicemvc\\welcome.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "welcome.html",
+              "DocumentMoniker": "E:\\source\\PracticeMVC\\PracticeMVC\\welcome.html",
+              "RelativeDocumentMoniker": "PracticeMVC\\welcome.html",
+              "ToolTip": "E:\\source\\PracticeMVC\\PracticeMVC\\welcome.html*",
+              "RelativeToolTip": "PracticeMVC\\welcome.html*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-05T04:25:18.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

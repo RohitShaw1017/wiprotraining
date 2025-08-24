@@ -1,0 +1,41 @@
+<form (ngSubmit)="onSubmit()" class="row g-3">
+  <div class="col-md-3">
+    <label for="amount" class="form-label">Amount</label>
+    <input 
+      id="amount" 
+      type="number" 
+      [(ngModel)]="amount" 
+      name="amount" 
+      class="form-control" 
+      placeholder="Enter amount" 
+      required>
+  </div>
+
+  <div class="col-md-3">
+    <label for="from" class="form-label">From Currency</label>
+    <select 
+      id="from" 
+      [(ngModel)]="from" 
+      name="from" 
+      class="form-select" 
+      title="Select source currency">
+      <option *ngFor="let c of currencies">{{c}}</option>
+    </select>
+  </div>
+
+  <div class="col-md-3">
+    <label for="to" class="form-label">To Currency</label>
+    <select 
+      id="to" 
+      [(ngModel)]="to" 
+      name="to" 
+      class="form-select" 
+      title="Select target currency">
+      <option *ngFor="let c of currencies">{{c}}</option>
+    </select>
+  </div>
+
+  <div class="col-md-3">
+    <button class="btn btn-primary" type="submit">Convert</button>
+  </div>
+</form>

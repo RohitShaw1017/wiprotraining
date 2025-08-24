@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\CoreRazorApps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B22361-58FF-4B15-BE4E-A3FB4D4C0BD6}|MVCExample1\\MVCExample1.csproj|e:\\source\\corerazorapps\\mvcexample1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5B22361-58FF-4B15-BE4E-A3FB4D4C0BD6}|MVCExample1\\MVCExample1.csproj|solutionrelative:mvcexample1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B22361-58FF-4B15-BE4E-A3FB4D4C0BD6}|MVCExample1\\MVCExample1.csproj|e:\\source\\corerazorapps\\mvcexample1\\controllers\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B22361-58FF-4B15-BE4E-A3FB4D4C0BD6}|MVCExample1\\MVCExample1.csproj|solutionrelative:mvcexample1\\controllers\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B22361-58FF-4B15-BE4E-A3FB4D4C0BD6}|MVCExample1\\MVCExample1.csproj|e:\\source\\corerazorapps\\mvcexample1\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B22361-58FF-4B15-BE4E-A3FB4D4C0BD6}|MVCExample1\\MVCExample1.csproj|solutionrelative:mvcexample1\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B22361-58FF-4B15-BE4E-A3FB4D4C0BD6}|MVCExample1\\MVCExample1.csproj|e:\\source\\corerazorapps\\mvcexample1\\controllers\\dbcontextoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B22361-58FF-4B15-BE4E-A3FB4D4C0BD6}|MVCExample1\\MVCExample1.csproj|solutionrelative:mvcexample1\\controllers\\dbcontextoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\4f3ae381-f3f6-4f1f-85df-a92575bacf60_PatientApp.zip.f60\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B22361-58FF-4B15-BE4E-A3FB4D4C0BD6}|MVCExample1\\MVCExample1.csproj|e:\\source\\corerazorapps\\mvcexample1\\views\\patients\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5B22361-58FF-4B15-BE4E-A3FB4D4C0BD6}|MVCExample1\\MVCExample1.csproj|solutionrelative:mvcexample1\\views\\patients\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B22361-58FF-4B15-BE4E-A3FB4D4C0BD6}|MVCExample1\\MVCExample1.csproj|e:\\source\\corerazorapps\\mvcexample1\\views\\patients\\create.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5B22361-58FF-4B15-BE4E-A3FB4D4C0BD6}|MVCExample1\\MVCExample1.csproj|solutionrelative:mvcexample1\\views\\patients\\create.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\source\\CoreRazorApps\\CoreRazorApps\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CoreRazorApps\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\source\\CoreRazorApps\\MVCExample\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCExample\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B22361-58FF-4B15-BE4E-A3FB4D4C0BD6}|MVCExample1\\MVCExample1.csproj|e:\\source\\corerazorapps\\mvcexample1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5B22361-58FF-4B15-BE4E-A3FB4D4C0BD6}|MVCExample1\\MVCExample1.csproj|solutionrelative:mvcexample1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\data\\migrations\\20250730074414_first.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\data\\migrations\\20250730074414_first.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\data\\migrations\\20250730074414_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\data\\migrations\\20250730074414_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|e:\\source\\corerazorapps\\razorapp1\\data\\migrations\\20250731050439_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2A5A7D-32ED-4256-BF4A-829DE7BA661F}|RazorApp1\\RazorApp1.csproj|solutionrelative:razorapp1\\data\\migrations\\20250731050439_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\MVCExample1\\Controllers\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MVCExample1\\Controllers\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\MVCExample1\\Controllers\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "MVCExample1\\Controllers\\ApplicationDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:00:53.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\MVCExample1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCExample1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\source\\CoreRazorApps\\MVCExample1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCExample1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T04:45:08.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\MVCExample1\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "MVCExample1\\Controllers\\PatientController.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\MVCExample1\\Controllers\\PatientController.cs*",
+              "RelativeToolTip": "MVCExample1\\Controllers\\PatientController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:19:42.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContextOptions.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\MVCExample1\\Controllers\\DbContextOptions.cs",
+              "RelativeDocumentMoniker": "MVCExample1\\Controllers\\DbContextOptions.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\MVCExample1\\Controllers\\DbContextOptions.cs",
+              "RelativeToolTip": "MVCExample1\\Controllers\\DbContextOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T11:36:03.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorApp1\\Pages\\Edit.cshtml",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "RazorApp1\\Pages\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T09:25:05.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "RazorApp1\\Pages\\Details.cshtml",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Details.cshtml",
+              "RelativeToolTip": "RazorApp1\\Pages\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T09:25:05.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorApp1\\Pages\\Index.cshtml",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorApp1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T09:25:06.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorApp1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorApp1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T09:25:20.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApp1\\Pages\\Delete.cshtml.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "RazorApp1\\Pages\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:25:06.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\4f3ae381-f3f6-4f1f-85df-a92575bacf60_PatientApp.zip.f60\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\4f3ae381-f3f6-4f1f-85df-a92575bacf60_PatientApp.zip.f60\\Program.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:34:41.716Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RazorApp1\\Pages\\Delete.cshtml",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "RazorApp1\\Pages\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T09:25:05.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApp1\\Pages\\Index.cshtml.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorApp1\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:23:54.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApp1\\Pages\\Details.cshtml.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "RazorApp1\\Pages\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:25:05.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApp1\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorApp1\\Pages\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:25:05.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApp1\\Pages\\Create.cshtml.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorApp1\\Pages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:25:05.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorApp1\\Pages\\Create.cshtml",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Create.cshtml",
+              "RelativeToolTip": "RazorApp1\\Pages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T09:25:05.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "create.html",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\MVCExample1\\Views\\Patients\\create.html",
+              "RelativeDocumentMoniker": "MVCExample1\\Views\\Patients\\create.html",
+              "ToolTip": "E:\\source\\CoreRazorApps\\MVCExample1\\Views\\Patients\\create.html",
+              "RelativeToolTip": "MVCExample1\\Views\\Patients\\create.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-31T06:51:37.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.html",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\MVCExample1\\Views\\Patients\\Index.html",
+              "RelativeDocumentMoniker": "MVCExample1\\Views\\Patients\\Index.html",
+              "ToolTip": "E:\\source\\CoreRazorApps\\MVCExample1\\Views\\Patients\\Index.html",
+              "RelativeToolTip": "MVCExample1\\Views\\Patients\\Index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-31T06:51:13.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250731050439_second.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Data\\Migrations\\20250731050439_second.cs",
+              "RelativeDocumentMoniker": "RazorApp1\\Data\\Migrations\\20250731050439_second.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Data\\Migrations\\20250731050439_second.cs",
+              "RelativeToolTip": "RazorApp1\\Data\\Migrations\\20250731050439_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:04:39.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RazorApp1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RazorApp1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:29:14.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RazorApp1\\appsettings.Development.json",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\appsettings.Development.json",
+              "RelativeToolTip": "RazorApp1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T05:01:34.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\MVCExample1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVCExample1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\source\\CoreRazorApps\\MVCExample1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVCExample1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T04:45:12.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\CoreRazorApps\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CoreRazorApps\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\CoreRazorApps\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CoreRazorApps\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:36:01.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250730074414_first.Designer.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Data\\Migrations\\20250730074414_first.Designer.cs",
+              "RelativeDocumentMoniker": "RazorApp1\\Data\\Migrations\\20250730074414_first.Designer.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Data\\Migrations\\20250730074414_first.Designer.cs",
+              "RelativeToolTip": "RazorApp1\\Data\\Migrations\\20250730074414_first.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:26:30.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApp1\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "RazorApp1\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:06:49.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "RazorApp1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "RazorApp1\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:26:25.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\MVCExample\\Program.cs",
+              "RelativeDocumentMoniker": "MVCExample\\Program.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\MVCExample\\Program.cs",
+              "RelativeToolTip": "MVCExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:23:11.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250730074414_first.cs",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\Data\\Migrations\\20250730074414_first.cs",
+              "RelativeDocumentMoniker": "RazorApp1\\Data\\Migrations\\20250730074414_first.cs",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\Data\\Migrations\\20250730074414_first.cs",
+              "RelativeToolTip": "RazorApp1\\Data\\Migrations\\20250730074414_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:44:15.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\source\\CoreRazorApps\\RazorApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorApp1\\appsettings.json",
+              "ToolTip": "E:\\source\\CoreRazorApps\\RazorApp1\\appsettings.json",
+              "RelativeToolTip": "RazorApp1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T07:31:04.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

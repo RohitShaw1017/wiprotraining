@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CoreRazorApps",
+    "\\CoreRazorApps\\Data",
+    "\\MVCExample1",
+    "\\MVCExample1\\Controllers",
+    "\\MVCExample1\\Models",
+    "\\MVCExample1\\Views",
+    "\\RazorApp1",
+    "\\RazorApp1\\Data",
+    "\\RazorApp1\\Models"
+  ],
+  "SelectedNode": "\\RazorApp1\\appsettings.Development.json",
+  "PreviewInSolutionExplorer": false
+}

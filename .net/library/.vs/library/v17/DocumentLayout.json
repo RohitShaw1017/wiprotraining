@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{639E39B2-0B05-4F90-B45B-CE6E7AB752EB}|library\\library.csproj|e:\\source\\library\\library\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639E39B2-0B05-4F90-B45B-CE6E7AB752EB}|library\\library.csproj|solutionrelative:library\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923AAE63-5340-43B7-8099-DF07D6D3E66F}|Library.MSTest\\Library.MSTest.csproj|e:\\source\\library\\library.mstest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923AAE63-5340-43B7-8099-DF07D6D3E66F}|Library.MSTest\\Library.MSTest.csproj|solutionrelative:library.mstest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639E39B2-0B05-4F90-B45B-CE6E7AB752EB}|library\\library.csproj|e:\\source\\library\\library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639E39B2-0B05-4F90-B45B-CE6E7AB752EB}|library\\library.csproj|solutionrelative:library\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639E39B2-0B05-4F90-B45B-CE6E7AB752EB}|library\\library.csproj|e:\\source\\library\\library\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639E39B2-0B05-4F90-B45B-CE6E7AB752EB}|library\\library.csproj|solutionrelative:library\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639E39B2-0B05-4F90-B45B-CE6E7AB752EB}|library\\library.csproj|e:\\source\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639E39B2-0B05-4F90-B45B-CE6E7AB752EB}|library\\library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "E:\\source\\library\\Library.MSTest\\Test1.cs",
+              "RelativeDocumentMoniker": "Library.MSTest\\Test1.cs",
+              "ToolTip": "E:\\source\\library\\Library.MSTest\\Test1.cs",
+              "RelativeToolTip": "Library.MSTest\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:33:52.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "E:\\source\\library\\library\\Library.cs",
+              "RelativeDocumentMoniker": "library\\Library.cs",
+              "ToolTip": "E:\\source\\library\\library\\Library.cs",
+              "RelativeToolTip": "library\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:32:53.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "E:\\source\\library\\library\\Borrower.cs",
+              "RelativeDocumentMoniker": "library\\Borrower.cs",
+              "ToolTip": "E:\\source\\library\\library\\Borrower.cs",
+              "RelativeToolTip": "library\\Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:32:06.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\source\\library\\library\\Book.cs",
+              "RelativeDocumentMoniker": "library\\Book.cs",
+              "ToolTip": "E:\\source\\library\\library\\Book.cs",
+              "RelativeToolTip": "library\\Book.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:31:27.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\library\\library\\Program.cs",
+              "RelativeDocumentMoniker": "library\\Program.cs",
+              "ToolTip": "E:\\source\\library\\library\\Program.cs",
+              "RelativeToolTip": "library\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:30:57.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
