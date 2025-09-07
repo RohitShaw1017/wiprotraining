@@ -1,0 +1,21 @@
+<h2>Your reservations</h2>
+
+<div *ngIf="loading">Loading...</div>
+<div *ngIf="error" style="color:red">{{ error }}</div>
+<div *ngIf="!loading && reservations.length === 0">No reservations yet.</div>
+
+<div *ngFor="let r of reservations" class="res-card">
+  <div class="left">
+    <img *ngIf="r.propertyImageUrl" [src]="r.propertyImageUrl" alt="{{ r.propertyTitle }}" />
+  </div>
+  <div class="mid">
+    <h3>{{ r.propertyTitle }}</h3>
+    <div class="meta">{{ r.checkInDate | date }} → {{ r.checkOutDate | date }}</div>
+    <div>By: {{ r.renterName }} ({{ r.renterEmail }})</div>
+    <div>Status: <strong>{{ r.status }}</strong></div>
+  </div>
+  <div class="actions" *ngIf="r.status === 'Pending'">
+    <button (click)="accept(r)">Accept</button>
+    <button (click)="reject(r)">Reject</button>
+  </div>
+</div>

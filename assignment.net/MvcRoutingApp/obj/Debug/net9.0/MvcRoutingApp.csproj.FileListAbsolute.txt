@@ -1,0 +1,19 @@
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.RazorAssemblyInfo.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.RazorAssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.sourcelink.json
+E:\WiproTraining\assignment.net\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.csproj.AssemblyReference.cache
+E:\WiproTraining\assignment.net\MvcRoutingApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\WiproTraining\assignment.net\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\WiproTraining\assignment.net\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.AssemblyInfoInputs.cache
+E:\WiproTraining\assignment.net\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.AssemblyInfo.cs
+E:\WiproTraining\assignment.net\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.csproj.CoreCompileInputs.cache
+E:\WiproTraining\assignment.net\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.MvcApplicationPartsAssemblyInfo.cache
+E:\WiproTraining\assignment.net\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.RazorAssemblyInfo.cache
+E:\WiproTraining\assignment.net\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.RazorAssemblyInfo.cs
+E:\WiproTraining\assignment.net\MvcRoutingApp\obj\Debug\net9.0\MvcRoutingApp.sourcelink.json

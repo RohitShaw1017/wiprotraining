@@ -1,0 +1,15 @@
+
+h2{
+    color: blueviolet;
+    display:flex;
+    align-content: flex-start;
+    margin-left: 20px;
+    padding: auto;
+
+}
+
+.res-card{display:flex;gap:12px;align-items:center;border:1px solid #eee;padding:12px;border-radius:8px;margin-bottom:10px;background:#e0afe9}
+.res-card .left img{width:120px;height:80px;object-fit:cover;border-radius:6px}
+.res-card .mid{flex:1}
+.res-card .meta{color:#666;margin:6px 0}
+.actions button{margin-left:6px;padding:8px 10px;background-color: blueviolet;color: aliceblue;border-radius: 10px;}

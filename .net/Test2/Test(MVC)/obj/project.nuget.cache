@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q9uUHE6gIWU=",
+  "dgSpecHash": "lj4paHE265g=",
   "success": true,
-  "projectFilePath": "E:\\source\\Test2\\Test(MVC)\\Test(MVC).csproj",
+  "projectFilePath": "E:\\WiproTraining\\.net\\Test2\\Test(MVC)\\Test(MVC).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

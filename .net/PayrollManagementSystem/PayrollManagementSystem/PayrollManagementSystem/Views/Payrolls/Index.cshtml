@@ -1,0 +1,71 @@
+﻿@model IEnumerable<PayrollManagementSystem.Models.Payroll>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PayPeriodStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PayPeriodEndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BasicSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OvertimePay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Deductions)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NetSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Employee)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PayPeriodStartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PayPeriodEndDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BasicSalary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OvertimePay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Deductions)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NetSalary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Employee.Address)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.PayrollID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.PayrollID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.PayrollID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

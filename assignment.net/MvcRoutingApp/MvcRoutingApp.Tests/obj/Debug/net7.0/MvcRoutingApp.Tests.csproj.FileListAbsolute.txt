@@ -1,0 +1,14 @@
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\MvcRoutingApp.Tests\obj\Debug\net7.0\MvcRoutingApp.Tests.csproj.AssemblyReference.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\MvcRoutingApp.Tests\obj\Debug\net7.0\MvcTestingAppManifest.json
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\MvcRoutingApp.Tests\obj\Debug\net7.0\MvcRoutingApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\MvcRoutingApp.Tests\obj\Debug\net7.0\MvcRoutingApp.Tests.AssemblyInfoInputs.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\MvcRoutingApp.Tests\obj\Debug\net7.0\MvcRoutingApp.Tests.AssemblyInfo.cs
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\MvcRoutingApp.Tests\obj\Debug\net7.0\MvcRoutingApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\somna\Documents\wiprotraining\.NETCORE\W4Day5 Assignment\MvcRoutingApp\MvcRoutingApp.Tests\obj\Debug\net7.0\MvcRoutingApp.Tests.sourcelink.json
+E:\WiproTraining\assignment.net\MvcRoutingApp\MvcRoutingApp.Tests\obj\Debug\net7.0\MvcRoutingApp.Tests.csproj.AssemblyReference.cache
+E:\WiproTraining\assignment.net\MvcRoutingApp\MvcRoutingApp.Tests\obj\Debug\net7.0\MvcTestingAppManifest.json
+E:\WiproTraining\assignment.net\MvcRoutingApp\MvcRoutingApp.Tests\obj\Debug\net7.0\MvcRoutingApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\WiproTraining\assignment.net\MvcRoutingApp\MvcRoutingApp.Tests\obj\Debug\net7.0\MvcRoutingApp.Tests.AssemblyInfoInputs.cache
+E:\WiproTraining\assignment.net\MvcRoutingApp\MvcRoutingApp.Tests\obj\Debug\net7.0\MvcRoutingApp.Tests.AssemblyInfo.cs
+E:\WiproTraining\assignment.net\MvcRoutingApp\MvcRoutingApp.Tests\obj\Debug\net7.0\MvcRoutingApp.Tests.csproj.CoreCompileInputs.cache
+E:\WiproTraining\assignment.net\MvcRoutingApp\MvcRoutingApp.Tests\obj\Debug\net7.0\MvcRoutingApp.Tests.sourcelink.json

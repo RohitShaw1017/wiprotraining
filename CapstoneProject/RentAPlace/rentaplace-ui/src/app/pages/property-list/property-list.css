@@ -1,0 +1,128 @@
+
+.search-bar {
+  display:flex;
+  gap:8px;
+  align-items:center;
+  margin:12px 0;
+  flex-wrap:wrap;
+}
+.search-bar input { padding:8px 10px; border-radius:6px; border:1px solid #ddd; min-width:200px; }
+.search-bar button { padding:8px 10px; border-radius:6px; border:1px solid #7c3aed; background:#fff; color:#7c3aed; cursor:pointer; }
+.btn-clear { background:#f3f4f6; color:#333; border-color:#ddd; }
+
+:host {
+  display: block;
+  font-family: system-ui, Arial, sans-serif;
+  color: #333;
+}
+
+/* Page title */
+h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin: 2rem 0 1rem;
+  color:blueviolet;
+}
+
+/* Loading / Error messages */
+div[style*="color:red"] {
+  text-align: center;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+div[ng-reflect-ng-if="Loading..."],
+div[ng-reflect-ng-if="No properties available."] {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+/* Property Cards Grid */
+.properties-list {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+/* Individual Card */
+.property-card {
+  border: 1px solid #eee;
+  border-radius: 10px;
+  overflow: hidden;
+  background: rgb(228, 205, 244);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.property-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+}
+
+/* Image */
+.property-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* Text Content */
+.property-content {
+  padding: 1rem;
+  color: #a043c5;
+}
+
+.property-content h3 {
+  font-size: 1.2rem;
+  margin: 0 0 0.4rem;
+  color: #a043c5;
+}
+
+.property-content p {
+  font-size: 0.9rem;
+  margin: 0 0 0.8rem;
+  color:#a043c5;
+}
+
+/* Property Meta */
+.property-meta {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.property-meta strong {
+  color: #222;
+}
+
+/* Features chips */
+.features {
+  margin: 0.6rem 0;
+}
+
+.chip {
+  display: inline-block;
+  margin: 0 0.4rem 0.4rem 0;
+  padding: 0.25rem 0.6rem;
+  font-size: 0.75rem;
+  border-radius: 12px;
+  background: #eef6ff;
+  color: #a043c5;
+}
+
+/* Action link */
+.property-content a {
+  display: inline-block;
+  margin-top: 0.6rem;
+  color: #a043c5;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.property-content a:hover {
+  text-decoration: underline;
+}

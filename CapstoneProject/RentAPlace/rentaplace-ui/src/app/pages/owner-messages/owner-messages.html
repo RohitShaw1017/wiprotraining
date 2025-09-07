@@ -1,0 +1,26 @@
+<div class="container py-3">
+  <h3>Messages for property {{ propertyId }}</h3>
+
+  <div *ngIf="loading">Loading...</div>
+  <div *ngIf="!loading && messages.length === 0" class="text-muted">No messages yet.</div>
+
+  <div *ngFor="let m of messages" class="card mb-2 p-2">
+    <div>
+      <strong>{{ m.senderName || ('User ' + m.senderId) }}</strong>
+      <small class="text-muted"> — {{ m.createdAt | date:'short' }}</small>
+    </div>
+
+    <div class="mt-2">{{ m.messageText }}</div>
+
+    <div *ngIf="m.replyText" class="mt-2 alert alert-light">
+      <strong>Reply:</strong> {{ m.replyText }} <small class="text-muted">({{ m.replyAt | date:'short' }})</small>
+    </div>
+
+    <div class="mt-2">
+      <textarea class="form-control" rows="2" [(ngModel)]="replyMap[m.messageId]"></textarea>
+      <div class="mt-1">
+        <button class="btn btn-sm btn-primary" (click)="sendReply(m.messageId)">Send reply</button>
+      </div>
+    </div>
+  </div>
+</div>

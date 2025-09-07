@@ -1,0 +1,74 @@
+<div class="detail-wrap" *ngIf="!loading && property; else busy">
+  <div class="gallery">
+    <div class="main">
+      <img *ngIf="mainImage; else noMain" [src]="mainImage" [alt]="property.title" />
+      <ng-template #noMain>
+        <img src="/assets/placeholder.jpg" alt="No image" />
+      </ng-template>
+    </div>
+
+    <div class="thumbs" *ngIf="property?.images?.length">
+      <img
+        *ngFor="let img of property.images"
+        [src]="img.imageUrl"
+        [alt]="property.title"
+        (click)="setMain(img)"
+        [class.active]="mainImage === img.imageUrl"
+      />
+    </div>
+  </div>
+
+  <div class="info">
+    <h1>{{ property.title }}</h1>
+    <div class="meta">
+      <div>{{ property.location }} • {{ property.type }}</div>
+      <div class="rating">Rating: {{ property.rating ?? 0 }}</div>
+    </div>
+
+    <p class="desc">{{ property.description }}</p>
+
+    <div class="features">
+      <span class="chip" *ngFor="let f of features()">{{ f }}</span>
+    </div>
+
+    <div class="price">Price/night: <strong>₹{{ property.pricePerNight }}</strong></div>
+
+    <hr />
+<h4>Contact owner</h4>
+
+<div *ngIf="isRenter(); else notRenter">
+  <textarea class="form-control" rows="3" [(ngModel)]="messageText"
+            placeholder="Ask the owner a question about this property..."></textarea>
+  <div class="mt-2">
+    <button class="btn btn-primary" (click)="sendMessage()" [disabled]="sending">
+      {{ sending ? 'Sending...' : 'Send message' }}
+    </button>
+  </div>
+</div>
+
+<ng-template #notRenter>
+  <div class="text-muted">Only renters can message owners. Please log in as a renter.</div>
+</ng-template>
+
+    <hr />
+
+    <!-- Booking form -->
+    <div class="booking">
+      <h3>Reserve this property</h3>
+      <label>Check-in</label>
+      <input type="date" [(ngModel)]="checkIn" />
+
+      <label>Check-out</label>
+      <input type="date" [(ngModel)]="checkOut" />
+
+      <button class="btn" (click)="reserve()" [disabled]="booking">
+        {{ booking ? 'Booking...' : 'Reserve now' }}
+      </button>
+    </div>
+  </div>
+</div>
+
+<ng-template #busy>
+  <div *ngIf="loading">Loading...</div>
+  <div *ngIf="error" style="color: red">{{ error }}</div>
+</ng-template>

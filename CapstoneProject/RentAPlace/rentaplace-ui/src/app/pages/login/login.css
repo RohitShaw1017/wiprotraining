@@ -1,0 +1,34 @@
+h2{
+  color: rgb(240, 237, 242);
+  padding: auto;
+  
+}
+form {
+  background: linear-gradient(135deg, #2f0a57ed, #5712ac92);
+  color: aliceblue;
+  max-width: 300px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+label {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+input{
+  border-radius: 5px;
+  margin-top: 10px;
+}
+button {
+  display: block;
+  margin: 0 auto;
+  border-radius: 5px;
+  padding: 6px 12px;
+  margin-top: 10px;
+}
+button:hover{
+  background-color: #b797df92;
+  color: aliceblue;
+}

@@ -1,0 +1,103 @@
+<div class="container">
+  <h1>Owner Dashboard - Add Property</h1>
+
+  <!-- ADD FORM -->
+  <div class="add-form">
+    <label>Title:
+      <input [(ngModel)]="title" placeholder="Property Title" />
+    </label>
+
+    <label>Description:
+      <input [(ngModel)]="description" placeholder="Short description" />
+    </label>
+
+    <label>Location:
+      <input [(ngModel)]="location" placeholder="City, State" />
+    </label>
+
+    <label>Type:
+      <input [(ngModel)]="type" placeholder="Villa, Apartment..." />
+    </label>
+
+    <label>Features:
+      <input [(ngModel)]="features" placeholder="Pool, Garden, WiFi (comma-separated)" />
+    </label>
+
+    <label>Price per night:
+      <input type="number" [(ngModel)]="pricePerNight" />
+    </label>
+
+    <label>Photos:
+      <input type="file" multiple accept="image/*" (change)="onFilesChanged($event)" />
+    </label>
+
+    <div class="previews" *ngIf="previews.length">
+      <div class="preview" *ngFor="let p of previews">
+        <img [src]="p" alt="preview" />
+      </div>
+    </div>
+
+    <div class="form-actions">
+      <button (click)="addProperty()" [disabled]="uploading">{{ uploading ? 'Uploading...' : 'Add Property' }}</button>
+      <button (click)="clearForm()">Clear</button>
+    </div>
+  </div>
+
+  <hr />
+
+  <h2>Your Properties</h2>
+  <div *ngIf="loading">Loading your properties...</div>
+  <div *ngIf="error" class="error">{{ error }}</div>
+  <div *ngIf="!loading && !myProperties?.length">No properties yet.</div>
+
+  <div class="prop-list">
+    <div class="prop-card" *ngFor="let p of myProperties">
+      <div class="prop-thumb">
+        <img *ngIf="p.images && p.images.length" [src]="p.images[0].imageUrl" alt="{{ p.title }}" />
+        <div *ngIf="!p.images || p.images.length === 0" class="no-image">No image</div>
+      </div>
+
+      <div class="prop-body">
+        <!-- view mode -->
+        <div *ngIf="editingId !== p.propertyId">
+          <h3>{{ p.title }}</h3>
+          <div class="meta">{{ p.location }} • {{ p.type }}</div>
+          <div class="features">
+            <span class="tag" *ngFor="let f of splitFeatures(p)">{{ f }}</span>
+          </div>
+          <div>Price/night: ₹{{ p.pricePerNight }}</div>
+
+          <div class="actions">
+            <button (click)="startEdit(p)">Edit</button>
+            <button (click)="deleteProperty(p.propertyId)">Delete</button>
+            
+            <a [routerLink]="['/owner/messages', p.propertyId]"
+            class="btn btn-sm btn-outline-info">
+            Messages
+            </a>
+          </div>
+
+          <div class="upload">
+            <input type="file" accept="image/*" multiple (change)="onPerPropFilesChanged($event, p.propertyId)" />
+            <button (click)="uploadImagesForProperty(p.propertyId)">Upload photos</button>
+          </div>
+        </div>
+
+        <!-- edit mode -->
+        <div *ngIf="editingId === p.propertyId" class="edit-form">
+          <label>Title: <input [(ngModel)]="editModel.title" /></label>
+          <label>Description: <input [(ngModel)]="editModel.description" /></label>
+          <label>Location: <input [(ngModel)]="editModel.location" /></label>
+          <label>Type: <input [(ngModel)]="editModel.type" /></label>
+          <label>Features: <input [(ngModel)]="editModel.features" /></label>
+          <label>Price: <input type="number" [(ngModel)]="editModel.pricePerNight" /></label>
+
+          <div class="edit-actions">
+            <button (click)="saveEdit()">Save</button>
+            <button (click)="cancelEdit()">Cancel</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

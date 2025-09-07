@@ -1,0 +1,57 @@
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-card">
+    <h1>Find your next stay</h1>
+    <p>Beach villas, city apartments, and cozy homes for every plan and budget.</p>
+    <div class="hero-cta">
+      <a class="btn" routerLink="/properties">Browse Properties</a>
+      <!-- Show Owner CTA if logged-in Owner -->
+      <a *ngIf="isOwner(); else guest" class="btn-ghost" routerLink="/owner-dashboard">
+        Add a Property
+      </a>
+      <ng-template #guest>
+        <a class="btn-ghost" routerLink="/register">Become an Owner</a>
+      </ng-template>
+    </div>
+  </div>
+</section>
+
+<!-- FEATURED -->
+<section class="featured">
+  <h2>Featured Properties</h2>
+
+  <div *ngIf="loading">Loading...</div>
+  <div *ngIf="!loading && error" style="color:red">{{ error }}</div>
+  <div *ngIf="!loading && !error && featured.length === 0">
+    No featured properties found.
+  </div>
+
+  <!-- 👇 Same wrapper & card classes as property-list -->
+  <div class="properties-list" *ngIf="!loading && !error && featured.length > 0">
+    <div class="property-card" *ngFor="let p of featured">
+      <img
+        *ngIf="p.images?.length; else noImage"
+        [src]="p.images[0].imageUrl"
+        [alt]="p.title"
+      />
+      <ng-template #noImage>
+        <img src="/assets/placeholder.jpg" alt="No image" />
+      </ng-template>
+
+      <div class="property-content">
+        <h3>{{ p.title }}</h3>
+        <p style="color:#64748b">{{ p.location }} • {{ p.type }}</p>
+
+        <div class="features" *ngIf="p.features">
+          <span class="chip" *ngFor="let f of toFeatureChips(p)">{{ f }}</span>
+        </div>
+
+        <div class="property-meta">
+          <strong>Price/night:</strong> ₹{{ p.pricePerNight }}
+        </div>
+
+        <a [routerLink]="['/property', p.propertyId]">View details</a>
+      </div>
+    </div>
+  </div>
+</section>

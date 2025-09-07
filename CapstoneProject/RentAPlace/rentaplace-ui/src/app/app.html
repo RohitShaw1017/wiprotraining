@@ -1,0 +1,31 @@
+<header class="nav">
+  <div class="container nav-row">
+    <a class="brand" [routerLink]="['/']">RentAPlace</a>
+
+    <nav class="links">
+      <a routerLink="/">Home</a>
+      <a routerLink="/properties">Properties</a>
+
+      <ng-container *ngIf="!isLoggedIn(); else authed">
+        <a routerLink="/login">Login</a>
+        <a routerLink="/register">Register</a>
+      </ng-container>
+
+      <ng-template #authed>
+        <a *ngIf="isOwner()" routerLink="/owner-dashboard">Owner Dashboard</a>
+        <a routerLink="/owner-reservations" *ngIf="isOwner()">Reservations</a>
+        <button class="btn-outline" (click)="logout()">Logout</button>
+      </ng-template>
+    </nav>
+  </div>
+</header>
+
+<main class="container main">
+  <router-outlet></router-outlet>
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <span>© {{year}} RentAPlace • All rights reserved</span>
+  </div>
+</footer>

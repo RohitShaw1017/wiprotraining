@@ -17,133 +17,133 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CoreRazorApps
 build_property.RootNamespace = CoreRazorApps
-build_property.ProjectDir = E:\source\CoreRazorApps\CoreRazorApps\
+build_property.ProjectDir = E:\WiproTraining\.net\CoreRazorApps\CoreRazorApps\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\source\CoreRazorApps\CoreRazorApps
+build_property.MSBuildProjectDirectory = E:\WiproTraining\.net\CoreRazorApps\CoreRazorApps
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/Login.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/Register.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/_ViewImports.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/_ViewStart.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Pages/Error.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Pages/Index.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Pages/Privacy.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Pages/Shared/_LoginPartial.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Pages/_ViewImports.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Pages/_ViewStart.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Views/Home/Index.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Views/Home/Privacy.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Views/Shared/Error.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Views/Shared/_LoginPartial.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Views/_ViewImports.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Views/_ViewStart.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/source/CoreRazorApps/CoreRazorApps/Pages/Shared/_Layout.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-v36a7f7v7n
 
-[E:/source/CoreRazorApps/CoreRazorApps/Views/Shared/_Layout.cshtml]
+[E:/WiproTraining/.net/CoreRazorApps/CoreRazorApps/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2rj53xx4la

@@ -1,0 +1,48 @@
+<div class="search-bar">
+  <input [(ngModel)]="location" placeholder="Location" />
+  <input [(ngModel)]="type" placeholder="Type (Villa, Flat...)" />
+  <input [(ngModel)]="features" placeholder="Features (Pool, Garden...)" />
+
+  <button (click)="executeSearch()">Search</button>
+  <button (click)="clearSearch()">Clear</button>
+</div>
+
+<h2>Available Properties</h2>
+
+<div *ngIf="loading">Loading...</div>
+<div *ngIf="!loading && error" style="color:red">{{ error }}</div>
+<div *ngIf="!loading && !error && properties.length === 0">
+  No properties available.
+</div>
+
+<div class="properties-list" *ngIf="!loading && !error && properties.length > 0">
+  <div class="property-card" *ngFor="let p of properties">
+    <!-- First image if available -->
+    <img
+      *ngIf="p.images && p.images.length"
+      [src]="p.images[0].imageUrl"
+      alt="{{ p.title }}"
+    />
+    <img
+      *ngIf="!p.images || !p.images.length"
+      src="/assets/placeholder.jpg"
+      alt="No image"
+    />
+
+    <div class="property-content">
+      <h3>{{ p.title }}</h3>
+      <p>{{ p.description }}</p>
+
+      <div class="property-meta"><strong>Location:</strong> {{ p.location }}</div>
+      <div class="property-meta"><strong>Type:</strong> {{ p.type }}</div>
+      <div class="property-meta"><strong>Price/night:</strong> ₹{{ p.pricePerNight }}</div>
+
+      <!-- Features as chips -->
+      <div class="features" *ngIf="p.features">
+        <span class="chip" *ngFor="let f of p.features.split(',')">{{ f.trim() }}</span>
+      </div>
+
+      <a [routerLink]="['/property', p.propertyId]">View details</a>
+    </div>
+  </div>
+</div>

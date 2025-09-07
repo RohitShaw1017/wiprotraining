@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\source\\Test2\\Test2\\Test2.csproj": {}
+    "E:\\WiproTraining\\.net\\Test2\\Test2\\Test2.csproj": {}
   },
   "projects": {
-    "E:\\source\\Test2\\Test2\\Test2.csproj": {
+    "E:\\WiproTraining\\.net\\Test2\\Test2\\Test2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\source\\Test2\\Test2\\Test2.csproj",
+        "projectUniqueName": "E:\\WiproTraining\\.net\\Test2\\Test2\\Test2.csproj",
         "projectName": "Test2",
-        "projectPath": "E:\\source\\Test2\\Test2\\Test2.csproj",
+        "projectPath": "E:\\WiproTraining\\.net\\Test2\\Test2\\Test2.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\source\\Test2\\Test2\\obj\\",
+        "outputPath": "E:\\WiproTraining\\.net\\Test2\\Test2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

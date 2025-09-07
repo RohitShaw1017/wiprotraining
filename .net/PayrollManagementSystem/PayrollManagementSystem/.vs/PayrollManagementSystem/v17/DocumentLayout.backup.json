@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\data\\pms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\data\\pms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\interfaces\\ifinancialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\interfaces\\ifinancialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\interfaces\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\interfaces\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\interfaces\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\interfaces\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\controllers\\taxescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\controllers\\taxescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\controllers\\financialrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\controllers\\financialrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\controllers\\payrollscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\controllers\\payrollscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\models\\financialrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\models\\financialrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\models\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\models\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\models\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\models\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|e:\\wiprotraining\\.net\\payrollmanagementsystem\\payrollmanagementsystem\\payrollmanagementsystem\\migrations\\20250821071359_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E4325-0723-4751-B4C2-F3AD3C931030}|PayrollManagementSystem\\PayrollManagementSystem.csproj|solutionrelative:payrollmanagementsystem\\migrations\\20250821071359_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFinancialRecordService.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Interfaces\\IFinancialRecordService.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Interfaces\\IFinancialRecordService.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Interfaces\\IFinancialRecordService.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Interfaces\\IFinancialRecordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:41:03.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Models\\Employee.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:34:22.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:30:02.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaxesController.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Controllers\\TaxesController.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Controllers\\TaxesController.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Controllers\\TaxesController.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Controllers\\TaxesController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:20:04.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PMS.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Data\\PMS.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Data\\PMS.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Data\\PMS.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Data\\PMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:03:55.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\appsettings.json",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\appsettings.json",
+              "RelativeToolTip": "PayrollManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T07:05:42.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Program.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Program.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:03:22.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPayrollService.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Interfaces\\IPayrollService.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Interfaces\\IPayrollService.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Interfaces\\IPayrollService.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Interfaces\\IPayrollService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:39:10.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Interfaces\\ITaxService.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Interfaces\\ITaxService.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Interfaces\\ITaxService.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Interfaces\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:40:14.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinancialRecordsController.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Controllers\\FinancialRecordsController.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Controllers\\FinancialRecordsController.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Controllers\\FinancialRecordsController.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Controllers\\FinancialRecordsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:19:22.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PayrollsController.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Controllers\\PayrollsController.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Controllers\\PayrollsController.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Controllers\\PayrollsController.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Controllers\\PayrollsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:18:40.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:16:57.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250821071359_second.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Migrations\\20250821071359_second.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Migrations\\20250821071359_second.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Migrations\\20250821071359_second.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Migrations\\20250821071359_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:14:00.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:03:28.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FinancialRecord.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Models\\FinancialRecord.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Models\\FinancialRecord.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Models\\FinancialRecord.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Models\\FinancialRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:02:34.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tax.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Models\\Tax.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Models\\Tax.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Models\\Tax.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Models\\Tax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:01:10.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Payroll.cs",
+              "DocumentMoniker": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Models\\Payroll.cs",
+              "RelativeDocumentMoniker": "PayrollManagementSystem\\Models\\Payroll.cs",
+              "ToolTip": "E:\\WiproTraining\\.net\\PayrollManagementSystem\\PayrollManagementSystem\\PayrollManagementSystem\\Models\\Payroll.cs",
+              "RelativeToolTip": "PayrollManagementSystem\\Models\\Payroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T06:59:44.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
