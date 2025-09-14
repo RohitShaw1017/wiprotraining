@@ -1,0 +1,130 @@
+[
+  {
+    "": "",
+    "Resource": "------------",
+    "Endpoint": "-------------------------------------",
+    "Method": "------",
+    "Access (Role)": "-------------",
+    "Description": "--------------------------------------"
+  },
+  {
+    "": "",
+    "Resource": "Auth",
+    "Endpoint": "`/api/auth/register`",
+    "Method": "POST",
+    "Access (Role)": "Public",
+    "Description": "Register new user (Owner/Renter)"
+  },
+  {
+    "": "",
+    "Resource": "Auth",
+    "Endpoint": "`/api/auth/login`",
+    "Method": "POST",
+    "Access (Role)": "Public",
+    "Description": "Authenticate & return JWT"
+  },
+  {
+    "": "",
+    "Resource": "Properties",
+    "Endpoint": "`/api/properties`",
+    "Method": "GET",
+    "Access (Role)": "Public",
+    "Description": "List all properties"
+  },
+  {
+    "": "",
+    "Resource": "Properties",
+    "Endpoint": "`/api/properties/{id}`",
+    "Method": "GET",
+    "Access (Role)": "Public",
+    "Description": "Get property details"
+  },
+  {
+    "": "",
+    "Resource": "Properties",
+    "Endpoint": "`/api/properties`",
+    "Method": "POST",
+    "Access (Role)": "Owner",
+    "Description": "Add new property"
+  },
+  {
+    "": "",
+    "Resource": "Properties",
+    "Endpoint": "`/api/properties/{id}`",
+    "Method": "PUT",
+    "Access (Role)": "Owner",
+    "Description": "Update property"
+  },
+  {
+    "": "",
+    "Resource": "Properties",
+    "Endpoint": "`/api/properties/{id}`",
+    "Method": "DELETE",
+    "Access (Role)": "Owner",
+    "Description": "Delete property"
+  },
+  {
+    "": "",
+    "Resource": "Properties",
+    "Endpoint": "`/api/properties/{id}/upload`",
+    "Method": "POST",
+    "Access (Role)": "Owner",
+    "Description": "Upload images for property"
+  },
+  {
+    "": "",
+    "Resource": "Reservations",
+    "Endpoint": "`/api/reservations`",
+    "Method": "POST",
+    "Access (Role)": "Renter",
+    "Description": "Create booking request"
+  },
+  {
+    "": "",
+    "Resource": "Reservations",
+    "Endpoint": "`/api/reservations/my`",
+    "Method": "GET",
+    "Access (Role)": "Renter",
+    "Description": "View my reservations"
+  },
+  {
+    "": "",
+    "Resource": "Reservations",
+    "Endpoint": "`/api/reservations/owner`",
+    "Method": "GET",
+    "Access (Role)": "Owner",
+    "Description": "View reservations for owned properties"
+  },
+  {
+    "": "",
+    "Resource": "Reservations",
+    "Endpoint": "`/api/reservations/{id}/status`",
+    "Method": "PUT",
+    "Access (Role)": "Owner",
+    "Description": "Accept/Reject reservation"
+  },
+  {
+    "": "",
+    "Resource": "Messages",
+    "Endpoint": "`/api/messages/send`",
+    "Method": "POST",
+    "Access (Role)": "Authenticated",
+    "Description": "Send message to Owner/Renter"
+  },
+  {
+    "": "",
+    "Resource": "Messages",
+    "Endpoint": "`/api/messages/my`",
+    "Method": "GET",
+    "Access (Role)": "Authenticated",
+    "Description": "View all my messages"
+  },
+  {
+    "": "",
+    "Resource": "Messages",
+    "Endpoint": "`/api/messages/conversation/{userId}`",
+    "Method": "GET",
+    "Access (Role)": "Authenticated",
+    "Description": "View conversation with another user"
+  }
+]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RentAPlace.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d519c01b3e3cf7a21799cceac4dfe2a3bce4d61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f957adf28e344e481a6b7b140be9c3a7eb2a5161")]
 [assembly: System.Reflection.AssemblyProductAttribute("RentAPlace.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RentAPlace.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

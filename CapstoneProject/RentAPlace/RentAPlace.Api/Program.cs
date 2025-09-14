@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add MVC + API controllers
+
 builder.Services.AddControllersWithViews().AddJsonOptions(x =>
     x.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles);
 
@@ -19,7 +19,7 @@ builder.Services.Configure<SmtpSettings>(builder.Configuration.GetSection("Email
 builder.Services.AddTransient<IEmailService, EmailService>();
 
 builder.Services.AddSignalR();
-// Swagger (API documentation)
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
@@ -52,7 +52,6 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-// ✅ CORS must be registered BEFORE app.Build()
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAngular", policy =>
